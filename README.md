@@ -15,9 +15,9 @@ Instantiate the "contactlist" function after all contacts have been loaded into 
 new contactlist();
 ```
 
-<strong>Note:</strong>
+<hr>
 
-### The script relies on the following libraries
+### Note: The script relies on the following libraries
 * TouchSwipe (http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html)
 * Scrollerjs (http://scrollerjs.com/)
 * JQuery (https://jquery.com)
